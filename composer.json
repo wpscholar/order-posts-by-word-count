@@ -1,14 +1,14 @@
 {
-    "name": "wpscholar/order-posts-by-word-count",
-    "description": "",
-    "license": "GPL-2.0+",
-    "type": "wordpress-plugin",
-    "authors": [
-        {
-            "name": "Micah Wood",
-            "email": "micah@wpscholar.com",
-            "homepage": "http://wpscholar.com",
-            "role": "Developer"
-        }
-    ]
+  "name": "wpscholar/order-posts-by-word-count",
+  "description": "Creates a widget that lists posts in order by word count.  Posts can be sorted in ascending or descending order and you can select how many posts you want to show. Widget can be used in the sidebar or any widgetized area.",
+  "license": "GPL-2.0-or-later",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Micah Wood",
+      "email": "micah@wpscholar.com",
+      "homepage": "http://wpscholar.com",
+      "role": "Developer"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: woodent
+Contributors: wpscholar
 Donate link: https://www.paypal.me/wpscholar
 Tags: widget, word count, order, list, WordPress Marketing, wordpress-marketing.com, posts, ascending, descending, sidebar, sort, length
 Requires at least: 4.3
